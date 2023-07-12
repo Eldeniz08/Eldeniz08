@@ -17,3 +17,8 @@
 
 Em constante evolução, em busca do aprimoramento técnico e profissonal.
 
+### Últimos Projetos:
+
+- [Ecommerce-FrontEndMentor](https://github.com/Eldeniz08/ProjetoPortif)
+- [Buscador IP-FrontEndMentor](https://github.com/Eldeniz08/BuscadordeIP)
+
